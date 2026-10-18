@@ -1,0 +1,8 @@
+torch==2.12.*
+transformers==5.13.1
+accelerate
+tensorly
+numpy
+scikit-learn
+safetensors
+pytest

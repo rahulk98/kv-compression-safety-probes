@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.docmesh/
+.DS_Store
+results/
+results_sync/
+tasks/
+notes.md
+blog/
+analysis/examples.txt
+analysis/degeneracy_samples.txt
+data/sets/
+data/raw/qwen3guard_gen_README.md
+analysis/merge_report.md

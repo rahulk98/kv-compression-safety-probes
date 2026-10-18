@@ -2,7 +2,7 @@
 
 Code and aggregate results for a hobby AI-safety project by Rahul Krishnan. It tests whether a linear-probe safety monitor, trained on an uncompressed model, still detects harmful requests when the model's KV cache is compressed. The project extends JoLT, a low-rank KV-cache compression method ([arXiv:2607.12550](https://arxiv.org/abs/2607.12550)), and compares it with SnapKV token eviction.
 
-Full write-up: [blog post](BLOG_URL_TBD)
+Full write-up: [blog post](https://rahulkrishnan.me/kv-compression-safety-probes/)
 
 ## Setup
 
